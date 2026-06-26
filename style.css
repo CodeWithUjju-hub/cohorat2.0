@@ -2,7 +2,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+<<<<<<< HEAD
     font-family: Arial, Helvetica, sans-serif;
+=======
+>>>>>>> 4dc443f (initial)
 }
 html,body{
     height: 100%;
@@ -12,6 +15,7 @@ html,body{
     height: 100%;
     width: 100%;
     background-color: black;
+<<<<<<< HEAD
    
 }
 #nav{
@@ -30,4 +34,21 @@ html,body{
     font-size: 22px;
     font-weight: 300;
   
+=======
+}
+#car1{
+    height: 300px;
+    width: 350px;
+    background-color: blueviolet;
+}
+#car2{
+    height: 300px;
+    width: 350px;
+    background-color: brown;
+}
+#car1{
+    height: 300px;
+    width: 350px;
+    background-color: chocolate;
+>>>>>>> 4dc443f (initial)
 }
